@@ -1,0 +1,17 @@
+After the Big Bang, the universe was like a hot soup of particles (i.e. protons, neutrons, and electrons). When the universe started cooling, the protons and neutrons began combining into ionized atoms of hydrogen (and eventually some helium). These ionized atoms of hydrogen and helium attracted electrons, turning them into neutral atoms - which allowed light to travel freely for the first time, since this light was no longer scattering off free electrons. The universe was no longer opaque! However, it would still be some time (perhaps up to a few hundred million years post-Big Bang!) before the first sources of light would start to form, ending the cosmic dark ages. Exactly what the universe's first light (ie. stars that fused the existing hydrogen atoms into more helium) looked like, and exactly when these first stars formed is not known.
+Imagine light leaving the first stars and galaxies nearly 13.6 billion years ago and traveling through space and time to reach our telescopes. We're essentially seeing these objects as they were when the light first left them 13.6 billion years ago. By the time this light reaches us, its color or wavelength has been shifted towards the red, something we call a "redshift." Why? In this particular case, it's because when we talk about very distant objects, Einstein's General Relativity comes into play. It tells us that the expansion of the universe means it is the space between objects that actually stretches, causing objects (galaxies) to move away from each other. Furthermore, any light in that space will also stretch, shifting that light's wavelength to longer wavelengths. This can make distant objects very dim (or invisible) at visible wavelengths of light, because that light reaches us as infrared light.
+
+
+
+
+Light has a dual nature
+    1.Sometimes it behaves like a particle (called a photon), which explains how light travels in straight lines
+    2.  Sometimes it behaves like a wave, which explains how light bends (or diffracts) around an object
+    3.  Scientists accept the evidence that supports this dual nature of light (even though it intuitively doesn't make sense to us!)
+ Quantum Theory
+    1.  Light is thought to consist of tiny bits of energy that behave like particles called photons
+         a.  Particles explain how light travels in straight lines or reflects off of mirrors 
+Electromagnetic Radiation
+  1.  Light is a form of energy called electromagnetic energy
+        a.  Other types of electromagnetic energy include radio, microwave, heat (infrared), ultraviolet (UV) and X-ray & gamma ray radiation
+    2.  Electromagnetic energy travels in waves

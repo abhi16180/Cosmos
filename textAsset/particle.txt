@@ -1,0 +1,26 @@
+Particle physics is a branch of physics that studies the elementary constituents of matter and radiation, and the interactions between them. It is also called "high energy physics", because many elementary particles do not occur under normal circumstances in nature, but can be created and detected during energetic collisions of other particles, as is done in particle accelerators.Modern particle physics began in the early 20th century as an exploration into the structure of the atom. The discovery of the atomic nucleus in the gold foil experiment of Geiger, Marsden, and Rutherford was the foundation of the field. The components of the nucleus were subsequently discovered in 1919 (the proton) and 1932 (the neutron). In the 1920s the field of quantum physics was developed to explain the structure of the atom. The binding of the nucleus could not be understood by the physical laws known at the time. Based on electromagnetism alone, one would expect the protons to repel each other. In the mid-1930s,Yukawa proposed a new force to hold the nucleus  together, which would eventually become known as the strong nuclear force. He speculated that this force was  mediated by a new particle called a meson.Also in the 1930s, Fermi postulated the neutrino as an  explanation for the observed energy spectrum of βdecay, and proposed an effective theory of the weak force. Separately, the positron and the muon were  discovered by Anderson. Yukawa's meson was discovered in the form of the pion in 1947. Over time, thefocus of the field shifted from understanding the nucleus to the more fundamental particles and their interactions,and particle physics became a distinct field from nuclear physics.
+
+Basically particles can be divided into Fermions and Bosons.Fermions are the particles which follow Fermi-Dirac statistics.Bosons are particles which follow Bose-Einstein statistics.
+Fermions are the building blocks of matter. All the force carrying particles are bosons.
+BOSON consist of,
+1.Photons (Electromagnetic force)
+2.Gluons (Strong nuclear force)
+3.W/Z bosons  (Weak nuclear force)
+4.Gravitons (gravitons carry gravity ,haven’t been discovered yet)
+Fermions can be divided into leptons and quarks.There are 6 leptons and 6 quarks.
+QUARKS:-
+1.Up,
+2.Down,
+3.Top,
+4.Bottom
+5.Charm
+6.Strange
+LEPTONS:-
+1.Electron,
+2.Muon,
+3.Tauon.
+4.Electron neutrino,
+5.Muon neutrino,
+6.Tauon neutrino.
+Two up and one down quark combine to form proton.Charge of up quark is +2e/3,charge of down quark is -e/3.In a similar manner two down and one up quark combine to form neutron.Protons and neutrons are generally called baryons.Everything we can sense is made up of baryons.This is how particle physics explains building blocks of the universe.
+
