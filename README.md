@@ -1,4 +1,4 @@
-# cosmos
+# Cosmos
 
 A new Flutter project.
 
